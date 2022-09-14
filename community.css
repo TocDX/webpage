@@ -1,0 +1,15 @@
+.list-items {
+  text-decoration: none;
+  list-style: none;
+}
+
+@media screen and(max-width:992px){
+  .table-main{
+    display: none;
+  }
+}
+
+.write-btn{
+  position: absolute;
+  right: 8rem;
+}
